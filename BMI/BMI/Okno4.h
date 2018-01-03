@@ -229,7 +229,7 @@ namespace BMI {
 			this->Controls->Add(this->label1);
 			this->Controls->Add(this->pictureBox2);
 			this->Name = L"Okno4";
-			this->Text = L"Okno4";
+			this->Text = L"BMI ";
 			(cli::safe_cast<System::ComponentModel::ISupportInitialize^>(this->pictureBox1))->EndInit();
 			(cli::safe_cast<System::ComponentModel::ISupportInitialize^>(this->pictureBox2))->EndInit();
 			this->ResumeLayout(false);
